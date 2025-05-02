@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jgod03
 - 👀 I’m interested in AI and Data.
-- 🌱 I’m currently learning python and AI automation.
-- 📫 How to reach me ...
+- 🌱 I’m currently learning AI automation, haskall, and CyberSec.
+- 📫 How to reach me 
 
 
 <!---
